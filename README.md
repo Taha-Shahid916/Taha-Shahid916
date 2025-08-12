@@ -85,14 +85,11 @@ Problem Solving, Teamwork, Communication, Time Management, Documentation
   <img src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-
 ---
-
 ## 🎮 Fun Zone
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" />
 </div>
-
 ---
 
 ## 🌐 Connect with Me
