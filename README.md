@@ -252,8 +252,8 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving",
 
 ## 🏅 Certifications & Achievements 🏅
 
-<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-A_Tour_of_Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=white" />
+<a href = "https://simpli-web.app.link/e/zAZaL1dSzUb"> <img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </a>
+ <a href = "https://www.coursera.org/account/accomplishments/verify/QOFDG5JBGH6J"> <img src="https://img.shields.io/badge/Google_Cloud-A_Tour_of_Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=white" /> </a> 
 <img src="https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
