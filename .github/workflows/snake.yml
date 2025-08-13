@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" # Runs once every day at midnight
-  workflow_dispatch: # Allow manual run
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,13 +15,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: Taha-Shahid916
-          outputs: dist/github-contribution-grid-snake.svg
+          # This is the key — generate into dist/
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
