@@ -82,8 +82,7 @@ Problem Solving, Teamwork, Communication, Time Management, Documentation
 
 ## 🐍 Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
