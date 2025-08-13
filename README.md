@@ -87,10 +87,10 @@ Problem Solving, Teamwork, Communication, Time Management, Documentation
 
 ---
 ## 🎮 Fun Zone
-## 🟡 Pacman Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/pacman.svg" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 </div>
+
 
 
 ---
