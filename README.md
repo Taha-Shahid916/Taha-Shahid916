@@ -40,7 +40,7 @@ name: "Taha Shahid"
 location: "Karachi, Pakistan 🇵🇰"
 role: "Full Stack Developer"
 status: "Open to opportunities"
-experience: "4+ years"
+experience: "For Now Fresher No Corporate Experience But have Project Experience"
 passion: "Building digital solutions"
 ```
 
@@ -48,15 +48,15 @@ passion: "Building digital solutions"
 ```javascript
 const currentGoals = {
   2025: [
-    "🚀 Launch SaaS Product",
-    "🌟 OSS Contributions", 
-    "☁️ Cloud Mastery",
+    "🚀 AI/ML Contribution ",
+    "🌟 Building Something", 
+    "☁️ Skills Enhancement",
     "🤖 AI Integration"
   ],
   learning: [
     "Advanced React Patterns",
     "Microservices Architecture",
-    "Kubernetes & Docker",
+    "Projct Managment",
     "AWS Cloud Solutions"
   ]
 }
@@ -68,12 +68,12 @@ const currentGoals = {
 ### 💼 Professional Skills
 ```python
 skills = {
-    "languages": ["JavaScript", "Python", "Java", "TypeScript"],
-    "frontend": ["React", "Redux", "HTML5", "CSS3", "Sass"],
-    "backend": ["Node.js", "Express", "Django", "Spring Boot"],
+    "languages": ["JavaScript", "Python", "Java", "C++"],
+    "frontend": ["React", "Tailwind", "HTML5", "CSS3"],
+    "backend": ["Node.js", "Django", "Spring Boot"],
     "databases": ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
     "cloud": ["AWS", "Google Cloud", "Heroku", "Netlify"],
-    "tools": ["Docker", "Kubernetes", "Git", "VS Code"]
+    "tools": ["Jmeter","Junit","Postman", "Git", "VS Code"]
 }
 ```
 
@@ -116,10 +116,10 @@ interface Frontend {
 }
 
 const frontend: Frontend = {
-  languages: ['JavaScript', 'TypeScript'],
-  frameworks: ['React', 'Redux', 'Next.js'],
+  languages: ['JavaScript', 'Java'],
+  frameworks: ['React', 'Redux', 'Node.js'],
   styling: ['TailwindCSS', 'Sass', 'Bootstrap'],
-  tools: ['Figma', 'Adobe XD']
+  tools: ['Figma', 'Canva']
 };
 ```
 
@@ -135,9 +135,9 @@ const frontend: Frontend = {
 class Backend:
     def __init__(self):
         self.languages = ['Node.js', 'Python', 'Java']
-        self.frameworks = ['Express', 'Django', 'Spring']
+        self.frameworks = ['Express', 'React', 'Spring']
         self.apis = ['REST', 'GraphQL']
-        self.testing = ['Jest', 'Mocha', 'Pytest']
+        self.testing = ['Jmeter', 'Junit', 'OWASP Zap']
     
     def get_stack(self):
         return {
