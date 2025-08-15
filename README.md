@@ -20,8 +20,7 @@
 </div>
 
 <!-- Profile Introduction -->
-<div align="center">
----
+
 <div align="center">
 
 ## 🌟 Welcome To My Repository 🌟
@@ -105,7 +104,7 @@ WHERE category IN (
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="45%" valign="top">
 
 ### Frontend Development
 ```typescript
@@ -129,7 +128,7 @@ const frontend: Frontend = {
 </p>
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="45%" valign="top">
 
 ### Backend Development  
 ```python
@@ -155,7 +154,7 @@ class Backend:
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="45%" valign="top">
 
 ### Database & Cloud
 ```sql
@@ -185,7 +184,7 @@ INSERT INTO skills VALUES
 </p>
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="45%" valign="top">
 
 ### DevOps & Tools
 ```bash
@@ -494,7 +493,7 @@ const codingStats = {
 ```ascii
 ╔══════════════════════════════════════╗
 ║                                      ║
-║     🎯 "Code is poetry written in    ║
+║    🎯 "Code is poetry written in     ║
 ║         logic and caffeine"          ║
 ║                                      ║
 ║    💡 "First, solve the problem.     ║
@@ -502,8 +501,6 @@ const codingStats = {
 ║                                      ║
 ╚══════════════════════════════════════╝
 ```
-
-### 🌟 If this profile inspired you, consider starring my repositories!
 
 ```bash
 $ git clone https://github.com/Taha-Shahid916/inspiration.git
