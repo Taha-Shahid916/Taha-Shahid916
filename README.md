@@ -408,18 +408,18 @@ npm --version
 <tr>
 <td align="center" width="50%">
   
-  <b>🐍 Contribution Snake Game</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
-  </picture>
+<b>🐍 Contribution Snake Game</b><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
+</picture>
 
 </td>
 <td align="center" width="50%">
   
   <b>🎮 Pacman Contribution Game</b><br>
-  <img src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/pacman-contribution-graph-dark.svg" alt="Pacman Game" />
+  <img src="https://github.com/Taha-Shahid916/Taha-Shahid916/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman Game" />
 
 </td>
 </tr>
