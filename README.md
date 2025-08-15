@@ -402,13 +402,13 @@ npm --version
 
 <div align="center">
 
-## 🎮 | 🐍 GitHub Games
+## 🎮 | 🐍 Games
 
 <table>
 <tr>
 <td align="center" width="50%">
   
-<b>🐍 Contribution Snake Game</b><br>
+<b>🐍 Snake Game</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
@@ -418,22 +418,19 @@ npm --version
 </td>
 <td align="center" width="50%">
   
-  <b>🎮 Pacman Contribution Game</b><br>
+  <b>🎮 Pacman Game</b><br>
   <img src="https://github.com/Taha-Shahid916/Taha-Shahid916/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman Game" />
 
 </td>
 </tr>
 </table>
-
-*<sub>Both games animate your contributions in a fun, coder-nerd style! No overlap or override issues – enjoy the pixel show!</sub>*
-
 </div>
 
 ---
 
 <div align="center">
 
-## 💬 Random Dev Quote
+## 💬Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
